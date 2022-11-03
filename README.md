@@ -25,10 +25,14 @@ Mostly controlled by the framer-motion library except the environment animations
 
 Environment is randomised on every page load. There are currently 3 types:
 
-cyber
-downtown
-forest 
+- cyber
+- downtown
+- forest 
 
 ## Screenshoot
+
+![Downtown](https://user-images.githubusercontent.com/69034460/199701886-76dfe532-6f5f-41f2-bcf0-cb9045d957c1.png)
+![cyber](https://user-images.githubusercontent.com/69034460/199702207-996ab202-c848-4b8a-b417-1859f4b7c184.png)
+![forest](https://user-images.githubusercontent.com/69034460/199702283-fe920cac-68b0-4755-85ef-8af413907a9a.png)
 
 
