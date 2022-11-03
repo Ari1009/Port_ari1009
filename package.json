@@ -3,7 +3,7 @@
   "description": "portfolio",
   "homepage": "https://arihant1009.github.io/",
   "author": "ari",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.6",
