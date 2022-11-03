@@ -1,0 +1,212 @@
+﻿{
+  "stats": {
+    "name": "Arihant",
+    "age": 19,
+    "occupation": "Cse student at NITS",
+    "status": "Learning stuffs.....",
+    "hobby": [
+      "Digital Art",
+      "Watching Anime",
+      "Drawing",
+      "listing to music"
+    ],
+    "skills": [
+      "Web dev(React/Typescript)",
+      "Cybersecurity",
+      "Flutter Dev",
+      "Python/C++"
+    ],
+    "toolsUsed": [
+      "Kali linux",
+      "VSCode",
+      "Ibis paint",
+      "Figma",
+      "VMWare"
+    ]
+  },
+
+  "achievements": {
+    "awards": [
+      {
+        "achievementRoute": "UIUX",
+        "issueDate": "2022",
+        "title": "UI/UX workshop",
+        "issuedBy": "GDSC",
+        "descripList": [
+            "Fun little workshop organised by my college gdsc community."
+            
+        ]
+      },
+      {
+        "achievementRoute": "Gyan",
+        "issueDate": "2019",
+        "title": "Gyanotsav",
+        "issuedBy": "Indian community school",
+        "descripList": [
+          "A huge event organised by the school where there were hackaton like competion for each department and our group won 1st prize for the category-Technology."
+  
+        ]
+      },
+      {
+        "achievementRoute": "Mountain",
+        "issueDate": "2022",
+        "title": "Hack-the-mountain",
+        "issuedBy": "MLH",
+        "descripList": [
+          "A participation certificate for the hackathron"
+        ]
+      },
+      {
+        "achievementRoute": "cloud",
+        "issueDate": "2022",
+        "title": "Cloud",
+        "issuedBy": "google",
+        "descripList": [
+          "Google cloud path completeion"
+        ]
+      },
+      {
+        "achievementRoute": "spectrum",
+        "issueDate": "2022",
+        "title": "Spectrum",
+        "issuedBy": "ECS",
+        "descripList": [
+           "A digital art competion to showcase  various artwork "       
+           ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "projectRoute": "Wallpaper_web",
+      "imageUrlList": [
+        "Wallpaper_web1",
+        "Wallpaper_web2"
+      ],
+      "projectTitle": "Otaku_club",
+      "projectPeriod": "",
+      "tags": [
+        "Web dev"
+      ],
+      "builtWith": [
+        "HTML",
+        "CSS"
+      ],
+      "projectLink": "https://arihant1009.github.io/Otaku-Den.github.io/",
+      "descripList": [
+        "A wallpaper website for all mmy illustrations"
+      ]
+    },
+    {
+      "projectRoute": "Weather",
+      "imageUrlList": [
+        "Weather1"
+      ],
+      "projectTitle": "Weather",
+      "projectPeriod": "2022",
+      "tags": [
+        "API",
+        "Web dev"
+      ],
+      "builtWith": [
+       "HTML",
+       "CSS",
+       "Javascript"
+      ],
+      "projectLink": "https://weatherapp-f8fsdli7m-arihant1009.vercel.app/",
+      "descripList": [
+        "An website that uses the openWeather api to fetch data about the current climate changes and display it on the website."
+      ]
+    },
+    {
+      "projectRoute": "clock",
+      "imageUrlList": [
+        "clock1"
+      ],
+      "projectTitle": "Pomodoro-Clock",
+      "projectPeriod": "2022",
+      "tags": [
+        "web dev"
+      ],
+      "builtWith": [
+        "HTML",
+        "CSS",
+        "Vanilla JS"
+      ],
+      "projectLink": "https://arihant1009.github.io/pomodoro-clock/",
+      "descripList": [
+      "An pomodoro clock that was implemended for the students during time of exam."      ]
+    },
+    {
+      "projectRoute": "port_scanner",
+      "imageUrlList": [
+       
+        "port_scanner"
+      ],
+      "projectTitle": "PORT scanner",
+      "projectPeriod": "2022",
+      "tags": [
+        "cybersecurity",
+        "IoT",
+        "python"
+      ],
+      "builtWith": [
+        "Python"
+      ],
+      "projectLink": "https://github.com/Arihant1009/PortScanner",
+      "descripList": [
+        "An port scanner to check all open ports in a system, To find vulnerabilities"
+      ]
+    },
+    {
+      "projectRoute": "flappy",
+      "imageUrlList": [
+           "flappy"
+      ],
+      "projectTitle": "Flapppy Bird",
+      "projectPeriod": "Oct 2020",
+      "tags": [
+        "web dev"
+      ],
+      "builtWith":[
+      "HTML",
+      "CSS",
+      "Javascript"
+      ],
+      "projectLink": "https://ghw-flappy-bird-ftltvzvno-arihant1009.vercel.app/",
+      "descripList":[
+        "A flappy bird clone built for mlh hackathon"
+      ]
+    },
+    {
+      "projectRoute": "tick",
+      "imageUrlList": [
+        "tick",
+        "tick2",
+        "tick3"
+      ],
+      "projectTitle": "TICK",
+      "projectPeriod": "",
+      "tags": [
+        "App dev",
+        "TO do list"
+      ],
+      "builtWith":[
+        "Flutter",
+        "Dart"
+      ],
+      "projectLink": "https://github.com/Arihant1009/Tick",
+      "descripList":[
+        
+        "A  todo list app built using flutter, had to learn about a lot of new system such as BLOC was definetly an blast to make"
+      ]
+    }
+   
+  ],
+  "contact": {
+    "email": "arihant0pal@gmail.com",
+    "linkedinLink": "https://www.linkedin.com/in/arihant-pal-2b8714228/",                            
+    "githubLink": "https://github.com/Arihant1009"  
+
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "arihant1009",
+  "description": "portfolio",
+  "homepage": "https://arihant1009.github.io/",
+  "author": "ari",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.6",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/jest": "^26.0.14",
+    "@types/node": "^14.11.8",
+    "@types/react": "^16.9.52",
+    "@types/react-addons-css-transition-group": "^15.0.5",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-dom": "^5.1.6",
+    "framer": "^1.2.8",
+    "framer-motion": "^2.9.1",
+    "gh-pages": "^3.1.0",
+    "js-yaml": "^3.14.0",
+    "react": "^16.13.1",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.0.5",
+    "typescript": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

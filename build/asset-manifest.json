@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Arihant1009-github/static/css/main.e6bca067.css",
+    "main.js": "/Arihant1009-github/static/js/main.d40eb2ff.js",
+    "static/media/char_run.png": "/Arihant1009-github/static/media/char_run.45f7656ebcb4b6e4f5c9.png",
+    "static/media/char_idle.png": "/Arihant1009-github/static/media/char_idle.79653fc020dbf95bc618.png",
+    "static/media/Khyay-Regular.ttf": "/Arihant1009-github/static/media/Khyay-Regular.9457e865c03a94238142.ttf",
+    "index.html": "/Arihant1009-github/index.html",
+    "main.e6bca067.css.map": "/Arihant1009-github/static/css/main.e6bca067.css.map",
+    "main.d40eb2ff.js.map": "/Arihant1009-github/static/js/main.d40eb2ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6bca067.css",
+    "static/js/main.d40eb2ff.js"
+  ]
+}
