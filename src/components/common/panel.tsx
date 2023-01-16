@@ -16,7 +16,7 @@ const Panel: React.FC<IPanel> = ({
     title, descrip, remark, btnString
 }) => {
 
-    const [menuBoard, setMenuBoard] = useState<string>("/assets/menu_1.png");
+    const [menuBoard, setMenuBoard] = useState<string>("/assets/menu_2.png");
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
     const fadeIn = {

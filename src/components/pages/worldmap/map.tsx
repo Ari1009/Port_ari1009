@@ -58,7 +58,7 @@ function Map() {
                                 </div>
                                 <p className="size-45 my-auto ml-4">achievements</p>
                             </div>
-                            <a href="https://github.com/Arihant1009/arihant1009.github.io" target="_blank">
+                            <a href="https://github.com/Arihant1009/arihant1009.github.io" target="_blank" rel="noreferrer">
                                 <div className="d-flex flex-row map-link mt-4"
                                 >
                                     <div className="circle-point"
@@ -85,7 +85,7 @@ function Map() {
                                 </div>
                                 <p className="size-45 my-auto ml-4">projects</p>
                             </div>
-                            <a href="https://ari09.tumblr.com/" target="_blank">
+                            <a href="https://ari09.tumblr.com/" target="_blank" rel="noreferrer">
                                 <div className="d-flex flex-row map-link mt-4"
                                 >
                                     <div className="circle-point"

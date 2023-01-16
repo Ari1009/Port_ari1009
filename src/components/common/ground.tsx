@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from 'react';
 import {useSelector} from 'react-redux'
 import {AppState} from '../../types/interfaces'
@@ -67,11 +68,11 @@ function Ground() {
             >
             </div>
             <div className="position-fixed footer-icons d-flex flex-row">
-                <a target="_blank" href={linkedinLink}>
+                <a target="_blank" href={linkedinLink} rel="noreferrer">
                     <i className="fab fa-linkedin text-white footer-icon" ></i>
                 </a>
 
-                <a target="_blank" href={githubLink}>
+                <a target="_blank" href={githubLink} rel="noreferrer">
                     <i className="fab fa-github-square text-white footer-icon" ></i>
                 </a>
             </div>
