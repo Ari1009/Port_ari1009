@@ -13,6 +13,8 @@
     "skills": [
       "Web dev(React/Typescript)",
       "Cybersecurity",
+      "Go Lang",
+      "Flask",
       "Flutter Dev",
       "Python/C++"
     ],
@@ -77,6 +79,30 @@
     ]
   },
   "projects": [
+    {
+      "projectRoute": "Aniriot",
+      "imageUrlList": [
+        "home",
+        "menu",
+        "detail"
+      ],
+      "projectTitle": "Aniriot",
+      "projectPeriod": "",
+      "tags": [
+        "Web dev"
+      ],
+      "builtWith": [
+        "React/Framermotion",
+        "Redux",
+        "Typescript/Tailwind Css",
+        "Jikan/Consument API",
+        "Firebase"
+      ],
+      "projectLink": "https://aniriot-website.vercel.app/",
+      "descripList": [
+        "Anime streaming website AD free with fast video streaming."
+      ]
+    },
     {
       "projectRoute": "Wallpaper_web",
       "imageUrlList": [
