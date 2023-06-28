@@ -85,7 +85,7 @@ function Map() {
                                 </div>
                                 <p className="size-45 my-auto ml-4">projects</p>
                             </div>
-                            <a href="https://ari09.tumblr.com/" target="_blank" rel="noreferrer">
+                            <a href="https://yorozuya-jade.vercel.app/" target="_blank" rel="noreferrer">
                                 <div className="d-flex flex-row map-link mt-4"
                                 >
                                     <div className="circle-point"

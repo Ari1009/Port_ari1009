@@ -12,7 +12,7 @@ a, a:hover, a:active, a:visited, a:focus {
 /* for fonts */
 @font-face{
     font-family: khyay;
-    src: url("/public/font/Khyay-Regular.ttf");
+    src: url("/public/font/RetroGaming.ttf");
 }
 .khyay{
     font-family: khyay;
